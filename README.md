@@ -5,7 +5,8 @@ Executive Summary
 This project analyzes 2023 HCAHPS survey data from five Denver hospitals to evaluate patient experience performance, identify key drivers of dissatisfaction, and prioritize high-impact improvement opportunities.
 Moving beyond traditional Top-Box metrics, the analysis integrates response distribution patterns, Opportunity for Improvement (OFI), and volume-weighted impact proxies to reveal structural limitations of Top-Box scores and provide a more realistic basis for quality improvement prioritization.
 An interactive Tableau dashboard enables multi-level exploration of patient experience at the citywide, hospital, measure, and question levels.
-________________________________________
+    ## Interactive Dashboard
+    [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/HCAHPS-Dashboard-Denver/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Healthcare Context
 HCAHPS is a nationally standardized patient experience survey used by CMS for public reporting, value-based purchasing, and quality benchmarking. Hospitals rely on HCAHPS insights to guide patient-centered care initiatives and resource allocation. Conventional reliance on Top-Box scores however, often obscures dissatisfaction patterns and misrepresents performance, particularly for binary-response measures. This project addresses that analytical gap.
 
@@ -96,3 +97,4 @@ Limitations
 
 Why This Project Matters
 This project demonstrates how healthcare analytics can move beyond descriptive reporting to actionable intelligence. By integrating performance gaps with patient volume, it provides a practical framework for aligning patient experience insights with strategic quality improvement decisions.
+
