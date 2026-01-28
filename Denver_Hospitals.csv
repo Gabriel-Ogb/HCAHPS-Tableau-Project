@@ -1,0 +1,276 @@
+﻿Hospital_Code,City,HCAHPS_Measure_ID,HCAHPS_Measure,Question,Answer,Box_Category,Answer_Percent,Answer_Count,Survey_Count,Survey_Start_Date,Survey_End_Date,Survey_Year,Geo_Level
+H_01,Denver,H_NURSE_RESPECT_A_P,Communication with Nurses,Nurses treated them with courtesy and respect,Always,Top,80,1401,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_RESPECT_SN_P,Communication with Nurses,Nurses treated them with courtesy and respect,Sometimes or Never,Bottom,3,53,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_RESPECT_U_P,Communication with Nurses,Nurses treated them with courtesy and respect,Usually,Middle,17,298,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_LISTEN_A_P,Communication with Nurses,Nurse listened carefully to them,Always,Top,70,1226,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_LISTEN_SN_P,Communication with Nurses,Nurse listened carefully to them,Sometimes or Never,Bottom,5,88,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_LISTEN_U_P,Communication with Nurses,Nurse listened carefully to them,Usually,Middle,25,438,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_EXPLAIN_A_P,Communication with Nurses,Nurses explained things in a way they could understand,Always,Top,69,1208,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_EXPLAIN_SN_P,Communication with Nurses,Nurses explained things in a way they could understand,Sometimes or Never,Bottom,5,88,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_NURSE_EXPLAIN_U_P,Communication with Nurses,Nurses explained things in a way they could understand,Usually,Middle,26,455,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_RESPECT_A_P,Communication with Doctors,Doctors treated them with courtesy and respect,Always,Top,82,1436,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_RESPECT_SN_P,Communication with Doctors,Doctors treated them with courtesy and respect,Sometimes or Never,Bottom,4,70,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_RESPECT_U_P,Communication with Doctors,Doctors treated them with courtesy and respect,Usually,Middle,14,245,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_LISTEN_A_P,Communication with Doctors,Doctor listened carefully to them,Always,Top,75,1313,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_LISTEN_SN_P,Communication with Doctors,Doctor listened carefully to them,Sometimes or Never,Bottom,5,88,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_LISTEN_U_P,Communication with Doctors,Doctor listened carefully to them,Usually,Middle,20,350,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_EXPLAIN_A_P,Communication with Doctors,Doctors explained things in a way they could understand,Always,Top,70,1226,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_EXPLAIN_SN_P,Communication with Doctors,Doctors explained things in a way they could understand,Sometimes or Never,Bottom,6,105,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DOCTOR_EXPLAIN_U_P,Communication with Doctors,Doctors explained things in a way they could understand,Usually,Middle,24,420,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CALL_BUTTON_A_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Always,Top,49,858,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CALL_BUTTON_SN_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Sometimes or Never,Bottom,11,193,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CALL_BUTTON_U_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Usually,Middle,40,700,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_BATH_HELP_A_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Always,Top,54,946,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_BATH_HELP_SN_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Sometimes or Never,Bottom,14,245,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_BATH_HELP_U_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Usually,Middle,32,560,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_MED_FOR_A_P,Communication about Medicines,Staff communicated what the medication was for,Always,Top,71,1243,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_MED_FOR_SN_P,Communication about Medicines,Staff communicated what the medication was for,Sometimes or Never,Bottom,11,193,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_MED_FOR_U_P,Communication about Medicines,Staff communicated what the medication was for,Usually,Middle,18,315,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_SIDE_EFFECTS_A_P,Communication about Medicines,Staff discussed possible side effects,Always,Top,45,788,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_SIDE_EFFECTS_SN_P,Communication about Medicines,Staff discussed possible side effects,Sometimes or Never,Bottom,30,525,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_SIDE_EFFECTS_U_P,Communication about Medicines,Staff discussed possible side effects,Usually,Middle,25,438,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DISCH_HELP_N_P,Discharge Information,Discussed whether they would need help after discharge,No,Bottom,16,280,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_DISCH_HELP_Y_P,Discharge Information,Discussed whether they would need help after discharge,Yes,Top,84,1471,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_SYMPTOMS_N_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,No,Bottom,14,245,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_SYMPTOMS_Y_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,Yes,Top,86,1506,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_PREFER_A,Care Transition,Staff took my preferences into account,Agree,Middle,55,963,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_PREFER_D_SD,Care Transition,Staff took my preferences into account,Disagree or Strongly Disagree,Bottom,10,175,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_PREFER_SA,Care Transition,Staff took my preferences into account,Strongly Agree,Top,35,613,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_UNDER_A,Care Transition,Understood their responsiblities in managing their health,Agree,Middle,53,928,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_UNDER_D_SD,Care Transition,Understood their responsiblities in managing their health,Disagree or Strongly Disagree ,Bottom,7,123,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_UNDER_SA,Care Transition,Understood their responsiblities in managing their health,Strongly Agree,Top,40,700,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_MED_A,Care Transition,Understood the purposes of their medications when leaving the hospital,Agree,Middle,47,823,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_MED_D_SD,Care Transition,Understood the purposes of their medications when leaving the hospital,Disagree or Strongly Disagree,Bottom,6,105,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CT_MED_SA,Care Transition,Understood the purposes of their medications when leaving the hospital,Strongly Agree,Top,47,823,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CLEAN_HSP_A_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Always,Top,66,1156,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CLEAN_HSP_SN_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Sometimes or never,Bottom,12,210,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_CLEAN_HSP_U_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Usually,Middle,22,385,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_QUIET_HSP_A_P,Quiteness of Hospital Environment,Room was quiet at night,Always,Top,56,981,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_QUIET_HSP_SN_P,Quiteness of Hospital Environment,Room was quiet at night,Sometimes or never,Bottom,10,175,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_QUIET_HSP_U_P,Quiteness of Hospital Environment,Room was quiet at night,Usually,Middle,34,595,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_HSP_RATING_0_6,Hospital Rating,Hospital rating,"Rating of ""6"" or lower (low)",Bottom,9,158,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_HSP_RATING_7_8,Hospital Rating,Hospital rating,"Rating of ""7"" or ""8"" (medium)",Middle,22,385,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_HSP_RATING_9_10,Hospital Rating,Hospital rating,"Rating of ""9"" or ""10"" (high)",Top,69,1208,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_RECMND_DN,Recommend the Hospital,Recommend the hospital,"""NO"", would not ",Bottom,6,105,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_RECMND_DY,Recommend the Hospital,Recommend the hospital,"""YES"", definitely",Top,67,1173,1751,1/1/2023,12/31/2023,2023,Denver
+H_01,Denver,H_RECMND_PY,Recommend the Hospital,Recommend the hospital,"""YES"", probably",Middle,27,473,1751,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_RESPECT_A_P,Communication with Nurses,Nurses treated them with courtesy and respect,Always,Top,89,360,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_RESPECT_SN_P,Communication with Nurses,Nurses treated them with courtesy and respect,Sometimes or Never,Bottom,1,4,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_RESPECT_U_P,Communication with Nurses,Nurses treated them with courtesy and respect,Usually,Middle,10,40,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_LISTEN_A_P,Communication with Nurses,Nurse listened carefully to them,Always,Top,76,307,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_LISTEN_SN_P,Communication with Nurses,Nurse listened carefully to them,Sometimes or Never,Bottom,3,12,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_LISTEN_U_P,Communication with Nurses,Nurse listened carefully to them,Usually,Middle,21,85,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_EXPLAIN_A_P,Communication with Nurses,Nurses explained things in a way they could understand,Always,Top,77,311,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_EXPLAIN_SN_P,Communication with Nurses,Nurses explained things in a way they could understand,Sometimes or Never,Bottom,5,20,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_NURSE_EXPLAIN_U_P,Communication with Nurses,Nurses explained things in a way they could understand,Usually,Middle,18,73,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_RESPECT_A_P,Communication with Doctors,Doctors treated them with courtesy and respect,Always,Top,90,364,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_RESPECT_SN_P,Communication with Doctors,Doctors treated them with courtesy and respect,Sometimes or Never,Bottom,2,8,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_RESPECT_U_P,Communication with Doctors,Doctors treated them with courtesy and respect,Usually,Middle,8,32,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_LISTEN_A_P,Communication with Doctors,Doctor listened carefully to them,Always,Top,81,327,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_LISTEN_SN_P,Communication with Doctors,Doctor listened carefully to them,Sometimes or Never,Bottom,4,16,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_LISTEN_U_P,Communication with Doctors,Doctor listened carefully to them,Usually,Middle,15,61,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_EXPLAIN_A_P,Communication with Doctors,Doctors explained things in a way they could understand,Always,Top,76,307,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_EXPLAIN_SN_P,Communication with Doctors,Doctors explained things in a way they could understand,Sometimes or Never,Bottom,6,24,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DOCTOR_EXPLAIN_U_P,Communication with Doctors,Doctors explained things in a way they could understand,Usually,Middle,18,73,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CALL_BUTTON_A_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Always,Top,57,230,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CALL_BUTTON_SN_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Sometimes or Never,Bottom,9,36,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CALL_BUTTON_U_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Usually,Middle,34,137,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_BATH_HELP_A_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Always,Top,59,238,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_BATH_HELP_SN_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Sometimes or Never,Bottom,14,57,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_BATH_HELP_U_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Usually,Middle,27,109,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_MED_FOR_A_P,Communication about Medicines,Staff communicated what the medication was for,Always,Top,78,315,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_MED_FOR_SN_P,Communication about Medicines,Staff communicated what the medication was for,Sometimes or Never,Bottom,9,36,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_MED_FOR_U_P,Communication about Medicines,Staff communicated what the medication was for,Usually,Middle,13,53,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_SIDE_EFFECTS_A_P,Communication about Medicines,Staff discussed possible side effects,Always,Top,55,222,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_SIDE_EFFECTS_SN_P,Communication about Medicines,Staff discussed possible side effects,Sometimes or Never,Bottom,24,97,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_SIDE_EFFECTS_U_P,Communication about Medicines,Staff discussed possible side effects,Usually,Middle,21,85,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DISCH_HELP_N_P,Discharge Information,Discussed whether they would need help after discharge,No,Bottom,11,44,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_DISCH_HELP_Y_P,Discharge Information,Discussed whether they would need help after discharge,Yes,Top,89,360,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_SYMPTOMS_N_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,No,Bottom,12,48,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_SYMPTOMS_Y_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,Yes,Top,88,356,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_PREFER_A,Care Transition,Staff took my preferences into account,Agree,Middle,40,162,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_PREFER_D_SD,Care Transition,Staff took my preferences into account,Disagree or Strongly Disagree,Bottom,5,20,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_PREFER_SA,Care Transition,Staff took my preferences into account,Strongly Agree,Top,55,222,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_UNDER_A,Care Transition,Understood their responsiblities in managing their health,Agree,Middle,37,149,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_UNDER_D_SD,Care Transition,Understood their responsiblities in managing their health,Disagree or Strongly Disagree ,Bottom,3,12,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_UNDER_SA,Care Transition,Understood their responsiblities in managing their health,Strongly Agree,Top,60,242,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_MED_A,Care Transition,Understood the purposes of their medications when leaving the hospital,Agree,Middle,35,141,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_MED_D_SD,Care Transition,Understood the purposes of their medications when leaving the hospital,Disagree or Strongly Disagree,Bottom,4,16,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CT_MED_SA,Care Transition,Understood the purposes of their medications when leaving the hospital,Strongly Agree,Top,61,246,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CLEAN_HSP_A_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Always,Top,70,283,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CLEAN_HSP_SN_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Sometimes or never,Bottom,9,36,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_CLEAN_HSP_U_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Usually,Middle,21,85,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_QUIET_HSP_A_P,Quiteness of Hospital Environment,Room was quiet at night,Always,Top,67,271,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_QUIET_HSP_SN_P,Quiteness of Hospital Environment,Room was quiet at night,Sometimes or never,Bottom,6,24,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_QUIET_HSP_U_P,Quiteness of Hospital Environment,Room was quiet at night,Usually,Middle,27,109,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_HSP_RATING_0_6,Hospital Rating,Hospital rating,"Rating of ""6"" or lower (low)",Bottom,6,24,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_HSP_RATING_7_8,Hospital Rating,Hospital rating,"Rating of ""7"" or ""8"" (medium)",Middle,18,73,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_HSP_RATING_9_10,Hospital Rating,Hospital rating,"Rating of ""9"" or ""10"" (high)",Top,76,307,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_RECMND_DN,Recommend the Hospital,Recommend the hospital,"""NO"", would not ",Bottom,3,12,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_RECMND_DY,Recommend the Hospital,Recommend the hospital,"""YES"", definitely",Top,77,311,404,1/1/2023,12/31/2023,2023,Denver
+H_02,Denver,H_RECMND_PY,Recommend the Hospital,Recommend the hospital,"""YES"", probably",Middle,20,81,404,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_RESPECT_A_P,Communication with Nurses,Nurses treated them with courtesy and respect,Always,Top,91,2226,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_RESPECT_SN_P,Communication with Nurses,Nurses treated them with courtesy and respect,Sometimes or Never,Bottom,1,24,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_RESPECT_U_P,Communication with Nurses,Nurses treated them with courtesy and respect,Usually,Middle,8,196,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_LISTEN_A_P,Communication with Nurses,Nurse listened carefully to them,Always,Top,82,2006,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_LISTEN_SN_P,Communication with Nurses,Nurse listened carefully to them,Sometimes or Never,Bottom,3,73,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_LISTEN_U_P,Communication with Nurses,Nurse listened carefully to them,Usually,Middle,15,367,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_EXPLAIN_A_P,Communication with Nurses,Nurses explained things in a way they could understand,Always,Top,79,1932,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_EXPLAIN_SN_P,Communication with Nurses,Nurses explained things in a way they could understand,Sometimes or Never,Bottom,3,73,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_NURSE_EXPLAIN_U_P,Communication with Nurses,Nurses explained things in a way they could understand,Usually,Middle,18,440,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_RESPECT_A_P,Communication with Doctors,Doctors treated them with courtesy and respect,Always,Top,89,2177,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_RESPECT_SN_P,Communication with Doctors,Doctors treated them with courtesy and respect,Sometimes or Never,Bottom,2,49,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_RESPECT_U_P,Communication with Doctors,Doctors treated them with courtesy and respect,Usually,Middle,9,220,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_LISTEN_A_P,Communication with Doctors,Doctor listened carefully to them,Always,Top,82,2006,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_LISTEN_SN_P,Communication with Doctors,Doctor listened carefully to them,Sometimes or Never,Bottom,3,73,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_LISTEN_U_P,Communication with Doctors,Doctor listened carefully to them,Usually,Middle,15,367,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_EXPLAIN_A_P,Communication with Doctors,Doctors explained things in a way they could understand,Always,Top,77,1883,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_EXPLAIN_SN_P,Communication with Doctors,Doctors explained things in a way they could understand,Sometimes or Never,Bottom,4,98,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DOCTOR_EXPLAIN_U_P,Communication with Doctors,Doctors explained things in a way they could understand,Usually,Middle,19,465,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CALL_BUTTON_A_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Always,Top,65,1590,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CALL_BUTTON_SN_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Sometimes or Never,Bottom,5,122,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CALL_BUTTON_U_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Usually,Middle,30,734,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_BATH_HELP_A_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Always,Top,68,1663,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_BATH_HELP_SN_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Sometimes or Never,Bottom,9,220,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_BATH_HELP_U_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Usually,Middle,23,563,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_MED_FOR_A_P,Communication about Medicines,Staff communicated what the medication was for,Always,Top,79,1932,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_MED_FOR_SN_P,Communication about Medicines,Staff communicated what the medication was for,Sometimes or Never,Bottom,6,147,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_MED_FOR_U_P,Communication about Medicines,Staff communicated what the medication was for,Usually,Middle,15,367,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_SIDE_EFFECTS_A_P,Communication about Medicines,Staff discussed possible side effects,Always,Top,50,1223,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_SIDE_EFFECTS_SN_P,Communication about Medicines,Staff discussed possible side effects,Sometimes or Never,Bottom,24,587,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_SIDE_EFFECTS_U_P,Communication about Medicines,Staff discussed possible side effects,Usually,Middle,26,636,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DISCH_HELP_N_P,Discharge Information,Discussed whether they would need help after discharge,No,Bottom,13,318,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_DISCH_HELP_Y_P,Discharge Information,Discussed whether they would need help after discharge,Yes,Top,87,2128,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_SYMPTOMS_N_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,No,Bottom,9,220,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_SYMPTOMS_Y_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,Yes,Top,91,2226,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_PREFER_A,Care Transition,Staff took my preferences into account,Agree,Middle,46,1125,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_PREFER_D_SD,Care Transition,Staff took my preferences into account,Disagree or Strongly Disagree,Bottom,5,122,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_PREFER_SA,Care Transition,Staff took my preferences into account,Strongly Agree,Top,49,1199,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_UNDER_A,Care Transition,Understood their responsiblities in managing their health,Agree,Middle,41,1003,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_UNDER_D_SD,Care Transition,Understood their responsiblities in managing their health,Disagree or Strongly Disagree ,Bottom,4,98,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_UNDER_SA,Care Transition,Understood their responsiblities in managing their health,Strongly Agree,Top,55,1345,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_MED_A,Care Transition,Understood the purposes of their medications when leaving the hospital,Agree,Middle,32,783,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_MED_D_SD,Care Transition,Understood the purposes of their medications when leaving the hospital,Disagree or Strongly Disagree,Bottom,4,98,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CT_MED_SA,Care Transition,Understood the purposes of their medications when leaving the hospital,Strongly Agree,Top,64,1565,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CLEAN_HSP_A_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Always,Top,79,1932,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CLEAN_HSP_SN_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Sometimes or never,Bottom,6,147,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_CLEAN_HSP_U_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Usually,Middle,15,367,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_QUIET_HSP_A_P,Quiteness of Hospital Environment,Room was quiet at night,Always,Top,69,1688,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_QUIET_HSP_SN_P,Quiteness of Hospital Environment,Room was quiet at night,Sometimes or never,Bottom,4,98,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_QUIET_HSP_U_P,Quiteness of Hospital Environment,Room was quiet at night,Usually,Middle,27,660,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_HSP_RATING_0_6,Hospital Rating,Hospital rating,"Rating of ""6"" or lower (low)",Bottom,4,98,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_HSP_RATING_7_8,Hospital Rating,Hospital rating,"Rating of ""7"" or ""8"" (medium)",Middle,13,318,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_HSP_RATING_9_10,Hospital Rating,Hospital rating,"Rating of ""9"" or ""10"" (high)",Top,83,2030,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_RECMND_DN,Recommend the Hospital,Recommend the hospital,"""NO"", would not ",Bottom,2,49,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_RECMND_DY,Recommend the Hospital,Recommend the hospital,"""YES"", definitely",Top,82,2006,2446,1/1/2023,12/31/2023,2023,Denver
+H_03,Denver,H_RECMND_PY,Recommend the Hospital,Recommend the hospital,"""YES"", probably",Middle,16,391,2446,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_RESPECT_A_P,Communication with Nurses,Nurses treated them with courtesy and respect,Always,Top,85,357,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_RESPECT_SN_P,Communication with Nurses,Nurses treated them with courtesy and respect,Sometimes or Never,Bottom,3,13,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_RESPECT_U_P,Communication with Nurses,Nurses treated them with courtesy and respect,Usually,Middle,12,50,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_LISTEN_A_P,Communication with Nurses,Nurse listened carefully to them,Always,Top,70,294,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_LISTEN_SN_P,Communication with Nurses,Nurse listened carefully to them,Sometimes or Never,Bottom,4,17,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_LISTEN_U_P,Communication with Nurses,Nurse listened carefully to them,Usually,Middle,26,109,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_EXPLAIN_A_P,Communication with Nurses,Nurses explained things in a way they could understand,Always,Top,73,307,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_EXPLAIN_SN_P,Communication with Nurses,Nurses explained things in a way they could understand,Sometimes or Never,Bottom,5,21,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_NURSE_EXPLAIN_U_P,Communication with Nurses,Nurses explained things in a way they could understand,Usually,Middle,22,92,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_RESPECT_A_P,Communication with Doctors,Doctors treated them with courtesy and respect,Always,Top,88,370,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_RESPECT_SN_P,Communication with Doctors,Doctors treated them with courtesy and respect,Sometimes or Never,Bottom,3,13,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_RESPECT_U_P,Communication with Doctors,Doctors treated them with courtesy and respect,Usually,Middle,9,38,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_LISTEN_A_P,Communication with Doctors,Doctor listened carefully to them,Always,Top,79,332,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_LISTEN_SN_P,Communication with Doctors,Doctor listened carefully to them,Sometimes or Never,Bottom,6,25,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_LISTEN_U_P,Communication with Doctors,Doctor listened carefully to them,Usually,Middle,15,63,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_EXPLAIN_A_P,Communication with Doctors,Doctors explained things in a way they could understand,Always,Top,72,302,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_EXPLAIN_SN_P,Communication with Doctors,Doctors explained things in a way they could understand,Sometimes or Never,Bottom,8,34,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DOCTOR_EXPLAIN_U_P,Communication with Doctors,Doctors explained things in a way they could understand,Usually,Middle,20,84,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CALL_BUTTON_A_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Always,Top,56,235,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CALL_BUTTON_SN_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Sometimes or Never,Bottom,11,46,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CALL_BUTTON_U_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Usually,Middle,33,139,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_BATH_HELP_A_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Always,Top,57,239,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_BATH_HELP_SN_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Sometimes or Never,Bottom,14,59,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_BATH_HELP_U_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Usually,Middle,29,122,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_MED_FOR_A_P,Communication about Medicines,Staff communicated what the medication was for,Always,Top,71,298,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_MED_FOR_SN_P,Communication about Medicines,Staff communicated what the medication was for,Sometimes or Never,Bottom,11,46,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_MED_FOR_U_P,Communication about Medicines,Staff communicated what the medication was for,Usually,Middle,18,76,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_SIDE_EFFECTS_A_P,Communication about Medicines,Staff discussed possible side effects,Always,Top,43,181,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_SIDE_EFFECTS_SN_P,Communication about Medicines,Staff discussed possible side effects,Sometimes or Never,Bottom,36,151,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_SIDE_EFFECTS_U_P,Communication about Medicines,Staff discussed possible side effects,Usually,Middle,21,88,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DISCH_HELP_N_P,Discharge Information,Discussed whether they would need help after discharge,No,Bottom,20,84,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_DISCH_HELP_Y_P,Discharge Information,Discussed whether they would need help after discharge,Yes,Top,80,336,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_SYMPTOMS_N_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,No,Bottom,12,50,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_SYMPTOMS_Y_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,Yes,Top,88,370,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_PREFER_A,Care Transition,Staff took my preferences into account,Agree,Middle,47,197,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_PREFER_D_SD,Care Transition,Staff took my preferences into account,Disagree or Strongly Disagree,Bottom,6,25,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_PREFER_SA,Care Transition,Staff took my preferences into account,Strongly Agree,Top,47,197,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_UNDER_A,Care Transition,Understood their responsiblities in managing their health,Agree,Middle,42,176,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_UNDER_D_SD,Care Transition,Understood their responsiblities in managing their health,Disagree or Strongly Disagree ,Bottom,6,25,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_UNDER_SA,Care Transition,Understood their responsiblities in managing their health,Strongly Agree,Top,52,218,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_MED_A,Care Transition,Understood the purposes of their medications when leaving the hospital,Agree,Middle,39,164,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_MED_D_SD,Care Transition,Understood the purposes of their medications when leaving the hospital,Disagree or Strongly Disagree,Bottom,6,25,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CT_MED_SA,Care Transition,Understood the purposes of their medications when leaving the hospital,Strongly Agree,Top,55,231,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CLEAN_HSP_A_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Always,Top,74,311,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CLEAN_HSP_SN_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Sometimes or never,Bottom,9,38,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_CLEAN_HSP_U_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Usually,Middle,17,71,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_QUIET_HSP_A_P,Quiteness of Hospital Environment,Room was quiet at night,Always,Top,62,260,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_QUIET_HSP_SN_P,Quiteness of Hospital Environment,Room was quiet at night,Sometimes or never,Bottom,8,34,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_QUIET_HSP_U_P,Quiteness of Hospital Environment,Room was quiet at night,Usually,Middle,30,126,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_HSP_RATING_0_6,Hospital Rating,Hospital rating,"Rating of ""6"" or lower (low)",Bottom,8,34,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_HSP_RATING_7_8,Hospital Rating,Hospital rating,"Rating of ""7"" or ""8"" (medium)",Middle,14,59,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_HSP_RATING_9_10,Hospital Rating,Hospital rating,"Rating of ""9"" or ""10"" (high)",Top,78,328,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_RECMND_DN,Recommend the Hospital,Recommend the hospital,"""NO"", would not ",Bottom,5,21,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_RECMND_DY,Recommend the Hospital,Recommend the hospital,"""YES"", definitely",Top,76,319,420,1/1/2023,12/31/2023,2023,Denver
+H_04,Denver,H_RECMND_PY,Recommend the Hospital,Recommend the hospital,"""YES"", probably",Middle,19,80,420,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_RESPECT_A_P,Communication with Nurses,Nurses treated them with courtesy and respect,Always,Top,85,276,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_RESPECT_SN_P,Communication with Nurses,Nurses treated them with courtesy and respect,Sometimes or Never,Bottom,3,10,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_RESPECT_U_P,Communication with Nurses,Nurses treated them with courtesy and respect,Usually,Middle,12,39,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_LISTEN_A_P,Communication with Nurses,Nurse listened carefully to them,Always,Top,72,234,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_LISTEN_SN_P,Communication with Nurses,Nurse listened carefully to them,Sometimes or Never,Bottom,5,16,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_LISTEN_U_P,Communication with Nurses,Nurse listened carefully to them,Usually,Middle,23,75,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_EXPLAIN_A_P,Communication with Nurses,Nurses explained things in a way they could understand,Always,Top,73,237,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_EXPLAIN_SN_P,Communication with Nurses,Nurses explained things in a way they could understand,Sometimes or Never,Bottom,5,16,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_NURSE_EXPLAIN_U_P,Communication with Nurses,Nurses explained things in a way they could understand,Usually,Middle,22,72,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_RESPECT_A_P,Communication with Doctors,Doctors treated them with courtesy and respect,Always,Top,84,273,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_RESPECT_SN_P,Communication with Doctors,Doctors treated them with courtesy and respect,Sometimes or Never,Bottom,4,13,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_RESPECT_U_P,Communication with Doctors,Doctors treated them with courtesy and respect,Usually,Middle,12,39,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_LISTEN_A_P,Communication with Doctors,Doctor listened carefully to them,Always,Top,74,241,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_LISTEN_SN_P,Communication with Doctors,Doctor listened carefully to them,Sometimes or Never,Bottom,6,20,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_LISTEN_U_P,Communication with Doctors,Doctor listened carefully to them,Usually,Middle,20,65,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_EXPLAIN_A_P,Communication with Doctors,Doctors explained things in a way they could understand,Always,Top,73,237,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_EXPLAIN_SN_P,Communication with Doctors,Doctors explained things in a way they could understand,Sometimes or Never,Bottom,6,20,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DOCTOR_EXPLAIN_U_P,Communication with Doctors,Doctors explained things in a way they could understand,Usually,Middle,21,68,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CALL_BUTTON_A_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Always,Top,53,172,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CALL_BUTTON_SN_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Sometimes or Never,Bottom,12,39,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CALL_BUTTON_U_P,Responsiveness of Hospital Staff,Received help after using the call button as soon as they wanted,Usually,Middle,35,114,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_BATH_HELP_A_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Always,Top,60,195,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_BATH_HELP_SN_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Sometimes or Never,Bottom,14,46,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_BATH_HELP_U_P,Responsiveness of Hospital Staff,Received bathroom help as soon as they wanted,Usually,Middle,26,85,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_MED_FOR_A_P,Communication about Medicines,Staff communicated what the medication was for,Always,Top,69,224,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_MED_FOR_SN_P,Communication about Medicines,Staff communicated what the medication was for,Sometimes or Never,Bottom,10,33,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_MED_FOR_U_P,Communication about Medicines,Staff communicated what the medication was for,Usually,Middle,21,68,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_SIDE_EFFECTS_A_P,Communication about Medicines,Staff discussed possible side effects,Always,Top,43,140,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_SIDE_EFFECTS_SN_P,Communication about Medicines,Staff discussed possible side effects,Sometimes or Never,Bottom,37,120,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_SIDE_EFFECTS_U_P,Communication about Medicines,Staff discussed possible side effects,Usually,Middle,20,65,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DISCH_HELP_N_P,Discharge Information,Discussed whether they would need help after discharge,No,Bottom,16,52,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_DISCH_HELP_Y_P,Discharge Information,Discussed whether they would need help after discharge,Yes,Top,84,273,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_SYMPTOMS_N_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,No,Bottom,9,29,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_SYMPTOMS_Y_P,Discharge Information,Received written information about possible symptoms to look out for after discharge,Yes,Top,91,296,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_PREFER_A,Care Transition,Staff took my preferences into account,Agree,Middle,48,156,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_PREFER_D_SD,Care Transition,Staff took my preferences into account,Disagree or Strongly Disagree,Bottom,7,23,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_PREFER_SA,Care Transition,Staff took my preferences into account,Strongly Agree,Top,45,146,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_UNDER_A,Care Transition,Understood their responsiblities in managing their health,Agree,Middle,43,140,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_UNDER_D_SD,Care Transition,Understood their responsiblities in managing their health,Disagree or Strongly Disagree ,Bottom,7,23,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_UNDER_SA,Care Transition,Understood their responsiblities in managing their health,Strongly Agree,Top,50,163,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_MED_A,Care Transition,Understood the purposes of their medications when leaving the hospital,Agree,Middle,37,120,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_MED_D_SD,Care Transition,Understood the purposes of their medications when leaving the hospital,Disagree or Strongly Disagree,Bottom,7,23,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CT_MED_SA,Care Transition,Understood the purposes of their medications when leaving the hospital,Strongly Agree,Top,56,182,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CLEAN_HSP_A_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Always,Top,69,224,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CLEAN_HSP_SN_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Sometimes or never,Bottom,10,33,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_CLEAN_HSP_U_P,Cleanliness of Hospital Environment,Room and bathroom were clean,Usually,Middle,21,68,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_QUIET_HSP_A_P,Quiteness of Hospital Environment,Room was quiet at night,Always,Top,61,198,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_QUIET_HSP_SN_P,Quiteness of Hospital Environment,Room was quiet at night,Sometimes or never,Bottom,10,33,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_QUIET_HSP_U_P,Quiteness of Hospital Environment,Room was quiet at night,Usually,Middle,29,94,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_HSP_RATING_0_6,Hospital Rating,Hospital rating,"Rating of ""6"" or lower (low)",Bottom,7,23,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_HSP_RATING_7_8,Hospital Rating,Hospital rating,"Rating of ""7"" or ""8"" (medium)",Middle,20,65,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_HSP_RATING_9_10,Hospital Rating,Hospital rating,"Rating of ""9"" or ""10"" (high)",Top,73,237,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_RECMND_DN,Recommend the Hospital,Recommend the hospital,"""NO"", would not ",Bottom,4,13,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_RECMND_DY,Recommend the Hospital,Recommend the hospital,"""YES"", definitely",Top,69,224,325,1/1/2023,12/31/2023,2023,Denver
+H_05,Denver,H_RECMND_PY,Recommend the Hospital,Recommend the hospital,"""YES"", probably",Middle,27,88,325,1/1/2023,12/31/2023,2023,Denver
